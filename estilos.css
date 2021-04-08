@@ -1,0 +1,25 @@
+h1{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+} 
+
+h2{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+header,section,footer,aside,nav,article, hgroup{
+    display: block;
+}
+
+body{
+    text-align: center;
+}
+
+.agrupar{
+    width: 960px;
+    background: yellow;
+    margin:auto;
+}
